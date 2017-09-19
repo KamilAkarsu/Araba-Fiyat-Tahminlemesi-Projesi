@@ -1,0 +1,31 @@
+C:\Users\Kamil Akarsu\Desktop\Arabalar\Arabalar\bin\Debug\Arabalar.exe.config
+C:\Users\Kamil Akarsu\Desktop\Arabalar\Arabalar\bin\Debug\Arabalar.exe
+C:\Users\Kamil Akarsu\Desktop\Arabalar\Arabalar\bin\Debug\Arabalar.pdb
+C:\Users\Kamil Akarsu\Desktop\Arabalar\Arabalar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kamil Akarsu\Desktop\Arabalar\Arabalar\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kamil Akarsu\Desktop\Arabalar\Arabalar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kamil Akarsu\Desktop\Arabalar\Arabalar\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kamil Akarsu\Desktop\Arabalar\Arabalar\bin\Debug\ja\System.Net.Http.Formatting.resources.dll
+C:\Users\Kamil Akarsu\Desktop\Arabalar\Arabalar\obj\Debug\Arabalar.csprojResolveAssemblyReference.cache
+C:\Users\Kamil Akarsu\Desktop\Arabalar\Arabalar\obj\Debug\Arabalar.exe
+C:\Users\Kamil Akarsu\Desktop\Arabalar\Arabalar\obj\Debug\Arabalar.pdb
+C:\Users\Kamil Akarsu\Desktop\Arabalar - Kopya\Arabalar\bin\Debug\Arabalar.exe.config
+C:\Users\Kamil Akarsu\Desktop\Arabalar - Kopya\Arabalar\obj\Debug\Arabalar.exe
+C:\Users\Kamil Akarsu\Desktop\Arabalar - Kopya\Arabalar\obj\Debug\Arabalar.pdb
+C:\Users\Kamil Akarsu\Desktop\Arabalar - Kopya\Arabalar\bin\Debug\Arabalar.exe
+C:\Users\Kamil Akarsu\Desktop\Arabalar - Kopya\Arabalar\bin\Debug\Arabalar.pdb
+C:\Users\Kamil Akarsu\Desktop\Arabalar - Kopya\Arabalar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kamil Akarsu\Desktop\Arabalar - Kopya\Arabalar\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kamil Akarsu\Desktop\Arabalar - Kopya\Arabalar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kamil Akarsu\Desktop\Arabalar - Kopya\Arabalar\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kamil Akarsu\Desktop\Arabalar - Kopya\Arabalar\bin\Debug\ja\System.Net.Http.Formatting.resources.dll
+C:\Users\Kamil Akarsu\Desktop\Arabalar - Kopya\Arabalar\obj\Debug\Arabalar.csprojResolveAssemblyReference.cache
+E:\DERS İLE ALAKALI\3.sınıf 1.dönem\Makine Öğrenmesi\Proje ve Dosyalar\Arabalar - Kopya\Arabalar\bin\Debug\Arabalar.exe.config
+E:\DERS İLE ALAKALI\3.sınıf 1.dönem\Makine Öğrenmesi\Proje ve Dosyalar\Arabalar - Kopya\Arabalar\obj\Debug\Arabalar.exe
+E:\DERS İLE ALAKALI\3.sınıf 1.dönem\Makine Öğrenmesi\Proje ve Dosyalar\Arabalar - Kopya\Arabalar\obj\Debug\Arabalar.pdb
+C:\Users\Kamil Akarsu\Desktop\PROGRAMLAR\Arabalar\bin\Debug\Arabalar.exe.config
+C:\Users\Kamil Akarsu\Desktop\PROGRAMLAR\Arabalar\obj\Debug\Arabalar.exe
+C:\Users\Kamil Akarsu\Desktop\PROGRAMLAR\Arabalar\obj\Debug\Arabalar.pdb
+C:\Users\Kamil Akarsu\Desktop\Arabalar\bin\Debug\Arabalar.exe.config
+C:\Users\Kamil Akarsu\Desktop\Arabalar\obj\Debug\Arabalar.exe
+C:\Users\Kamil Akarsu\Desktop\Arabalar\obj\Debug\Arabalar.pdb
